@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/ms-logo-header-white.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/195/Master%202025_RGB.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Master Service Companies
+                    &copy;2025 Master Service Companies
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #013d63;
+  border-top: 1px dashed #00345c;
 }
 .gif-box ul {
     text-align:left;
@@ -202,13 +202,14 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #013d63;
+  background-color: #fff;
+  border-bottom: 1px solid #00345c;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #013d63;
+  background-color: #00345c;
   border-color: transparent;
   color: #fff;
 }
